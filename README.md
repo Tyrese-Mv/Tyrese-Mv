@@ -51,13 +51,16 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  
   <img width=390 src="https://github-readme-stats.vercel.app" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src=https://streak-stats.demolab.com" alt="top langs" />
-</div>
 
+    
+[![GitHub Streak](https://github-readme-streak-stats-pi-two.vercel.app?user=Tyrese-Mv&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <br/>
+</div>
 <br/><br/>
+
+
 
 <hr/>
 
