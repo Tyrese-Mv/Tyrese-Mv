@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Musawenkosi+Mvuna!;" />
 </h1>
 
-<h3 align="center">A passionate software engineering student from Durban, South Africa</h3>
+<h3 align="center">A passionate software engineering graduate from Durban, South Africa</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently studying at **_WeThinkCode** and **alx_africa**
+ 🔭 I’m currently working on a **Community Water Sharing Platform**
  
  </div>
  
@@ -32,7 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,visualstudio,vim,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,cs,dotnet,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,cs,dotnet,bash,springboot" /><br>
 </div>
 
 <br/>
